@@ -14,3 +14,6 @@ Then simply run the `start.sh` file and follow instructions. It'll create a text
 
 # To Do
 - Add batch conversion
+- Clean up the outputted text
+- Eventually add optional functionality to print out dialogues separately
+- Attach speaker names to dialogues with machine learning
