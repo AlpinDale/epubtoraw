@@ -3,6 +3,11 @@ A little tool made to convert epub files to raw text.
 
 
 # How to use
+
+Build the go script:
+```
+$ go build etg.go
+```
 Make the scripts executable:
 
 ```
