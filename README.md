@@ -4,6 +4,8 @@ A little tool made to convert epub files to raw text.
 
 # How to use
 
+Install `pv`.
+
 Build the go script:
 ```
 $ go build etg.go
@@ -18,7 +20,6 @@ Then simply run the `start.sh` file and follow instructions. It'll create a text
 
 
 # To Do
-- Add batch conversion
 - Clean up the outputted text
 - Add optional functionality to print out dialogues separately
 - Attach speaker names to dialogues with machine learning
