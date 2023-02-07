@@ -16,7 +16,7 @@ Make the scripts executable:
 $ chmod +x etg start.sh
 ```
 
-Then simply run the `start.sh` file and follow instructions. It'll create a text file in the same folder with all the chapters added together.
+Then simply run the `start.sh` file. It'll create text files for each epub file in the directory.
 
 
 # To Do
